@@ -2,7 +2,7 @@
 
 ### How to run:
 - [Install visual studio 2022 community edition](https://visualstudio.microsoft.com/vs/community/)
-- Clone [the repository](https://github.com/jameskriang/calculatorEndpoint)
+- Clone [the repository](https://github.com/jameskriang/userAPIAssignment)
 - Use visual studio to open project/solution by selecting the file **userAPI.sln**
 - Click Play/Run icon at the middle top menu on visual studio to build and start application.
 - Browser should automatically open the swagger of the application. Then we can proceed to test each endpoint function.
